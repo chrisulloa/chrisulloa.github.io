@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clojure on Christian Gonzalez</title>
+    <title>clojure on chrisulloa</title>
     <link>https://chrisulloa.github.io/tags/clojure/</link>
-    <description>Recent content in clojure on Christian Gonzalez</description>
+    <description>Recent content in clojure on chrisulloa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 17:49:40 -0800</lastBuildDate>
