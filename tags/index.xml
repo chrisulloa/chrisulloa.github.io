@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Christian Gonzalez</title>
-    <link>http://example.org/tags/</link>
+    <link>https://chrisulloa.github.io/tags/</link>
     <description>Recent content in Tags on Christian Gonzalez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Feb 2020 17:49:40 -0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chrisulloa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>clojure</title>
-      <link>http://example.org/tags/clojure/</link>
+      <link>https://chrisulloa.github.io/tags/clojure/</link>
       <pubDate>Sat, 29 Feb 2020 17:49:40 -0800</pubDate>
       
-      <guid>http://example.org/tags/clojure/</guid>
+      <guid>https://chrisulloa.github.io/tags/clojure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graphql</title>
-      <link>http://example.org/tags/graphql/</link>
+      <link>https://chrisulloa.github.io/tags/graphql/</link>
       <pubDate>Sat, 29 Feb 2020 17:49:40 -0800</pubDate>
       
-      <guid>http://example.org/tags/graphql/</guid>
+      <guid>https://chrisulloa.github.io/tags/graphql/</guid>
       <description></description>
     </item>
     
