@@ -5,29 +5,6 @@
     <link>https://chrisulloa.github.io/tags/</link>
     <description>Recent content in Tags on chrisulloa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 17:49:40 -0800</lastBuildDate>
-    
-	<atom:link href="https://chrisulloa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>clojure</title>
-      <link>https://chrisulloa.github.io/tags/clojure/</link>
-      <pubDate>Sat, 29 Feb 2020 17:49:40 -0800</pubDate>
-      
-      <guid>https://chrisulloa.github.io/tags/clojure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graphql</title>
-      <link>https://chrisulloa.github.io/tags/graphql/</link>
-      <pubDate>Sat, 29 Feb 2020 17:49:40 -0800</pubDate>
-      
-      <guid>https://chrisulloa.github.io/tags/graphql/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://chrisulloa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

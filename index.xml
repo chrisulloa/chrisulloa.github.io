@@ -6,19 +6,6 @@
     <description>Recent content in About Me on chrisulloa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://chrisulloa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Speeding up GraphQL query execution</title>
-      <link>https://chrisulloa.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 29 Feb 2020 17:49:40 -0800</pubDate>
-      
-      <guid>https://chrisulloa.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Improving the performance of a Clojure GraphQL API built with &lt;a href=&#34;https://github.com/walmartlabs/lacinia&#34;&gt;Lacinia&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisulloa.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
